@@ -15,9 +15,9 @@ Bivariate Analysis
 Correlation Analysis: Examine relationships between variables. Scatter Plots and Pair Plots: Visualize relationships between numeric variables. Categorical Plots: Explore categorical variables and their impact on sales. Insights and Documentation: Summarize key findings and insights from the analyses.
 
 Tools Used
-Python
-Seaborn
-Plotly
-Matplotlib
-Pandas
+Python,
+Seaborn,
+Plotly,
+Matplotlib,
+Pandas.
 Both analyses tasks aim to uncover patterns, trends, and relationships in the data to inform further interpretation or modeling.
